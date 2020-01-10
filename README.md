@@ -1,4 +1,4 @@
-## AI Tutor综合学习平台
+## AI Tutor - Integrated Learding Platform综合学习平台
 *男女搭配干活不累*
 成员： @MurphyJUAN（[GitHub](https://github.com/MurphyJUAN)）@AbdielNie（[GitHub](https://github.com/AbdielNie)）@jimschenchen（[GitHub](https://github.com/jimschenchen)）@Angela-inca（[GitHub](https://github.com/Angela-inca)）.
 
